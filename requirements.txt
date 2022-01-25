@@ -1,13 +1,17 @@
 anyio==3.5.0
 asgiref==3.4.1
+beautifultable==1.0.1
 click==8.0.3
 fastapi==0.71.0
+filelock==3.4.2
 h11==0.12.0
 idna==3.3
 pydantic==1.9.0
+pysondb==1.6.2
 python-multipart==0.0.5
 six==1.16.0
 sniffio==1.2.0
 starlette==0.17.1
 typing-extensions==4.0.1
 uvicorn==0.16.0
+wcwidth==0.2.5
