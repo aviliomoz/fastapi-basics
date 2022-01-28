@@ -1,16 +1,12 @@
 {
-    "data": [
-        {
-            "text": "Nota de prueba",
-            "id": 143378544827552074
-        },
-        {
-            "text": "Nota de prueba 3",
-            "id": 352171981483956856
-        },
-        {
-            "text": "Nota de prueba 4",
-            "id": 205720912321641445
-        }
-    ]
+   "data": [
+      {
+         "text": "Twit de prueba 2",
+         "id": 143378544827552074
+      },
+      {
+         "text": "Twit de prueba",
+         "id": 132679783327040385
+      }
+   ]
 }
